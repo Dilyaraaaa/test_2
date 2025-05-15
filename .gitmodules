@@ -1,0 +1,3 @@
+[submodule "config.py"]
+	path = config.py
+	url = https://github.com/pyshkovni/example-tgbot
